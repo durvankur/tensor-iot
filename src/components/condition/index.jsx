@@ -1,0 +1,1 @@
+export const Condition = ({ children, show }) => show ? children : null

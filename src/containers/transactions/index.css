@@ -1,0 +1,53 @@
+.header {
+  font-size: 3rem;
+  color: rgb(40, 85, 144);
+  letter-spacing: 1rem;
+}
+
+.ant-divider-horizontal {
+  margin-bottom: 0;
+}
+
+.filter-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 4rem;
+}
+
+.btn-text {
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+}
+
+.table {
+  margin: 0 4rem;
+  border: 0.1rem solid grey;
+}
+
+.upcoming {
+  color: #5e5e04;
+  max-width: 40%;
+  font-weight: 500;
+  background: #f7f787;
+  text-align: center;
+  border-radius: 0.8rem;
+}
+
+.fail {
+  color: #fb0606;
+  max-width: 40%;
+  font-weight: 500;
+  background: #f9cdcd;
+  text-align: center;
+  border-radius: 0.8rem;
+}
+
+.success {
+  color: #084a0b;
+  max-width: 40%;
+  font-weight: 500;
+  background: #cdf9d4;
+  text-align: center;
+  border-radius: 0.8rem;
+}

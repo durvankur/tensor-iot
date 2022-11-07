@@ -1,0 +1,42 @@
+.header-wrapper {
+  display: flex;
+}
+
+.ant-list-item {
+  justify-content: flex-start;
+}
+
+.detail {
+  font-size: 1rem;
+    word-break: break-word;
+}
+
+.image {
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1rem;
+}
+
+.title {
+  font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.mr-05 {
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+.status {
+  height: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 18%;
+    margin-left: 1rem;
+}
